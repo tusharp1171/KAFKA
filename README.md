@@ -1,4 +1,4 @@
-# KAPKA
+# KAFKA
 
 1. Navigate to Kafka Directory  ---
    cd path\to\kafka
